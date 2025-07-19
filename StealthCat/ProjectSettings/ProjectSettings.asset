@@ -674,10 +674,10 @@ PlayerSettings:
   captureStartupLogs: {}
   activeInputHandler: 1
   windowsGamepadBackendHint: 0
-  cloudProjectId: 
+  cloudProjectId: b7c265e7-9a77-4fe6-9e9a-199e0e0b71c4
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: 
+  projectName: StealthCat
   organizationId: 
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
