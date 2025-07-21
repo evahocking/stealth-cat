@@ -1,6 +1,6 @@
 # 🐱 Stealth Cat
 
-**Stealth Cat** is a 2D stealth platformer built in Unity where you play as a sneaky orange cat who must avoid detection, collect fish, and reach the exit without being caught by light cones. It's a beginner-friendly Unity game focused on clean mechanics, minimal art, and polished presentation.
+**Stealth Cat** is a 2D stealth platformer built in Unity where you play as a sneaky orange cat who must avoid detection, collect fish, and reach the exit without being caught by light cones.
 
 ---
 
@@ -25,7 +25,6 @@
 - **Unity 6.1 (URP 2D Template)**
 - **C#** for scripting
 - **Git + GitHub** for version control
-- **OpenGameArt** assets (placeholder sprite)
 
 ---
 
